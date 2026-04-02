@@ -1,23 +1,23 @@
-# 📈 AI Powered Stock Market Dashboard
+# AI Powered Stock Market Dashboard
 
-## 🚀 Overview
+## Overview
 
 This project is an advanced AI-powered stock market dashboard that provides real-time stock data visualization, price trend analysis, and machine learning-based predictions. It also includes explainable AI using SHAP for model transparency.
 
 ---
 
-## ✨ Features
+## Features
 
-* 📊 Live Candlestick Chart (Plotly)
-* 📈 Trend Detection (Uptrend / Downtrend)
-* 🤖 Machine Learning Prediction
-* 🧠 SHAP Explainable AI Insights
-* 📥 Download Stock Data (CSV)
-* 🎯 Interactive Dashboard (Streamlit UI)
+* Live Candlestick Chart (Plotly)
+* Trend Detection (Uptrend / Downtrend)
+* Machine Learning Prediction
+* SHAP Explainable AI Insights
+* Download Stock Data (CSV)
+* Interactive Dashboard (Streamlit UI)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Streamlit
@@ -29,21 +29,21 @@ This project is an advanced AI-powered stock market dashboard that provides real
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 📊 Dashboard
+### Dashboard
 
 ![Dashboard](screenshots/dashboard1.png)
 ---
 ![Dashboard](screenshots/dashboard2.png)
 ---
-### 🤖 Prediction
+### Prediction
 
 ![Prediction](screenshots/prediction1.png)
 ---
 ![Prediction](screenshots/prediction2.png)
 ---
-### 🧠 Insights
+### Insights
 
 ![Insights](screenshots/insight1.png)
 ---
@@ -51,7 +51,7 @@ This project is an advanced AI-powered stock market dashboard that provides real
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/stock-market-ai-dashboard.git
@@ -62,7 +62,7 @@ streamlit run app.py
 
 ---
 
-## 📌 How It Works
+## How It Works
 
 * Fetches real-time stock data using yFinance
 * Processes and cleans data using Pandas
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * Portfolio Tracking
 * News Sentiment Analysis
