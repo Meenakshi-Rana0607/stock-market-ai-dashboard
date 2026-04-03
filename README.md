@@ -1,5 +1,5 @@
 <h1 align="center"> AI Powered Stock Market Dashboard</h1>
-<h3 align="center"> Real-Time • ML Powered • Explainable AI</h3>
+<p align="center"> Real-Time • ML Powered • Explainable AI</p>
 
 ---
 
