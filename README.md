@@ -1,36 +1,31 @@
-<h1 align="center"> AI Powered Stock Market Dashboard</h1>
+<h1 align="center">📈 AI Powered Stock Market Dashboard</h1>
 <p align="center"> Real-Time • ML Powered • Explainable AI</p>
-
----
 
 ## Overview
 
 This project is an advanced AI-powered stock market dashboard that provides real-time stock data visualization, price trend analysis, and machine learning-based predictions. It also includes explainable AI using SHAP for model transparency.
 
----
 
-## Features
+## <span style="color:#4CAF50">Features</span>
 
-* Live Candlestick Chart (Plotly)
-* Trend Detection (Uptrend / Downtrend)
-* Machine Learning Prediction
-* SHAP Explainable AI Insights
-* Download Stock Data (CSV)
-* Interactive Dashboard (Streamlit UI)
+➤ Live Candlestick Chart (Plotly)  
+➤ Trend Detection (Uptrend / Downtrend)  
+➤ Machine Learning Prediction  
+➤ SHAP Explainable AI Insights  
+➤ Download Stock Data (CSV)  
+➤ Interactive Dashboard (Streamlit UI)  
 
----
 
-## Tech Stack
+## <span style="color:#2196F3">Tech Stack</span>
 
-* Python
-* Streamlit
-* Plotly
-* Pandas
-* yFinance
-* Scikit-learn
-* SHAP
+➤ Python  
+➤ Streamlit  
+➤ Plotly  
+➤ Pandas  
+➤ yFinance  
+➤ Scikit-learn  
+➤ SHAP  
 
----
 
 ## Screenshots
 
@@ -52,18 +47,25 @@ This project is an advanced AI-powered stock market dashboard that provides real
 ---
 ![Insights](screenshots/insight2.png)
 
----
 
 ## Installation
-
+1️⃣ Clone Repository
 ```bash
 git clone https://github.com/your-username/stock-market-ai-dashboard.git
+```
+2️⃣ Navigate to Project
+```bash
 cd stock-market-ai-dashboard
+```
+3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+4️⃣ Run Application
+```bash
 streamlit run app.py
 ```
 
----
 
 ## How It Works
 
@@ -73,7 +75,6 @@ streamlit run app.py
 * Uses SHAP to explain predictions
 * Visualizes results using Plotly & Streamlit
 
----
 
 ## Future Improvements
 
@@ -82,10 +83,8 @@ streamlit run app.py
 * Real-time Alerts
 * Login Authentication
 
----
 
 ## 👩‍💻 Author
 
 Meenakshi Rani
 
----
