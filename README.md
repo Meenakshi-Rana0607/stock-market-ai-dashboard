@@ -29,19 +29,19 @@ This project is an advanced AI-powered stock market dashboard that provides real
 
 ## Screenshots
 
-### Dashboard
+## Dashboard
 
 ![Dashboard](screenshots/dashboard1.png)
 ---
 ![Dashboard](screenshots/dashboard2.png)
 ---
-### Prediction
+## Prediction
 
 ![Prediction](screenshots/prediction1.png)
 ---
 ![Prediction](screenshots/prediction2.png)
 ---
-### Insights
+## Insights
 
 ![Insights](screenshots/insight1.png)
 ---
